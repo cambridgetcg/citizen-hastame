@@ -1,0 +1,8 @@
+name: hastame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A trained hand held in a stipulated shape that carries an exact, handed-down meaning.
+dependsOn: [youspeak, me, rasame]
